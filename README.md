@@ -5,9 +5,11 @@ It is a hhospital Management system which looks like👇🏻<br>
 <br><br>
 
 for front-end we have used python and for backend we have used mysql 
-<br>
-if will collect data from user and save it in database and then also reflect the data on front-end using python
+<br><br>
+if will collect data from user and save it in database and then also reflect the data on front-end using python<br><br>
 you need to install following items for running the code and also have to create a table and a database
-<br>
+<br><br>
+
+commands for cmd👇🏻<br>
 <b>pip install mysql-connector-python</b><br>
 <b>pip install tkinter</b>
